@@ -1,2 +1,7 @@
 print('Vai dar errado')
-adadddadadadad
+
+banana que é bom é a split meu chapa
+adaddadadad
+
+
+djaduhaduihahd
