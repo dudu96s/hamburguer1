@@ -1,4 +1,4 @@
-print('Vai dar muito bom')
+print('Vai dar bom')
 
 banana que é bom é a split meu chapa
 adaddadadad
